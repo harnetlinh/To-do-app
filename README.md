@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # HaNgocLinh-ToDoApp
-
-=======
-# todoapp
 
 ## Project setup
 ```
@@ -26,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> [VueSetup][ToDoApp Tbale] [Create]
